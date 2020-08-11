@@ -1,0 +1,19 @@
+{
+  "name": "tc-covid-19api",
+  "version": "1.0.0",
+  "description": "covid-19 api",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "jsdom": "^16.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "set DEBUG=myapp:* & npm start"
+  },
+  "keywords": [
+    "covid"
+  ],
+  "author": "Barış Meral",
+  "license": "ISC"
+}
