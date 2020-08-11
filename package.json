@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "set DEBUG=myapp:* & npm start"
+    "start": "node app.js"
   },
   "keywords": [
     "covid"

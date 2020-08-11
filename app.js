@@ -1,7 +1,6 @@
 const axios = require('axios');
 const jsdom = require('jsdom');
 var express = require('express');
-var path = require('path');
 
 var app = express();
 app.set('port', process.env.PORT || 5000);
