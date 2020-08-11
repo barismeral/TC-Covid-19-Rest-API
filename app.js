@@ -8,6 +8,11 @@ app.set('port', process.env.PORT || 5000);
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
+app.listen(process.env.PORT || 5000,()=>{
+
+        console.log("server is running");
+
+});
 
 
 app.use(function(req, res, next) {
