@@ -1,7 +1,7 @@
 {
     "name": "T.C. Sağlık Bakanlığı Covid-19 API",
     "description": "Günlük Koronavirüs Verileri",
-    "repository": "",
+    "repository": "https://github.com/barismeral/TC-Covid-19-Rest-API.git",
     "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
     "keywords": ["node", "express", "heroku","covid-19"],
     "image": "heroku/nodejs"
