@@ -5,6 +5,7 @@
   "main": "app.js",
   "dependencies": {
     "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.5",
     "express": "4.17.1"
   },
   "devDependencies": {},
@@ -12,8 +13,9 @@
     "start": "node app.js"
   },
   "keywords": [
-    "covid","covid-19","api"
-    
+    "covid",
+    "covid-19",
+    "api"
   ],
   "author": "Barış Meral",
   "license": "ISC"
